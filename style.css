@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    /* line-height: 1.5; */
+}
+body {
+    display: flex;
+    flex-direction: column;
+    gap: 90px;
+    align-items: center;
+}
+.section1 {
+    padding-top: 80px;
+    padding-bottom: 36px;
+    border-radius: 10px;
+    width: 700px;
+    line-height: 1.2;
+}
+.section2 {
+    color: rgba(0,0,0,0.4);
+    padding-bottom: 52px;
+    border-radius: 10px;
+    width: 700px;
+    font-size: 20px;
+}
+.section3 {
+    width: 700px;
+    font-size: 17.5px;
+}
+.section4 {
+    width: 700px;
+    padding-bottom: 12px;
+    border-radius: 10px;
+    font-size: 31.2px;
+    line-height: 1.1;
+}
+.section5 {
+    width: 700px;
+    padding-bottom: 44px;
+    border-radius: 10px;
+    font-size: 20px;
+    line-height: 1.6;
+}
+.section6 {
+    width: 700px;
+    padding-bottom: 28px;
+    border-radius: 10px;
+    font-size: 20px;
+    line-height: 1.6;
+}
+.section7 {
+    width: 700px;
+    padding-bottom: 31px;
+    border-radius: 10px;
+    font-size: 20px;
+    line-height: 1.6;
+}
+.section8 {
+    width: 700px;
+    padding-bottom: 24px;
+    border-radius: 10px;
+    font-size: 20px;
+    line-height: 1.6;
+}
+.section9 {
+    width: 700px;
+    padding-bottom: 24px;
+    border-radius: 10px;
+    font-size: 20px;
+    line-height: 1.6;
+}
+.section10 {
+    width: 700px;
+    padding-bottom: 8px;
+    border-radius: 10px;
+    font-size: 20px;
+    line-height: 1.6;
+    font-style: italic;
+    margin-left: -16px;    
+    padding-left: 16px;  
+    border-left: 5px solid black;
+    border-radius: 2px;
+}
+.section11 {
+    width: 700px;
+    padding-bottom: 24px;
+    padding-top: 16px;
+    border-radius: 10px;
+    font-size: 20px;
+    line-height: 1.6;
+}
+.section12 {
+    width: 700px;
+    padding-bottom: 24px;
+    padding-top: 16px;
+    border-radius: 10px;
+    font-size: 20px;
+    line-height: 1.6;
+}
+.section13 {
+    width: 700px;
+    padding-bottom: 12px;
+    border-radius: 10px;
+    font-size: 24px;
+    line-height: 1.1;
+}
+.section14 {
+    width: 700px;
+    padding-bottom: 12px;
+    border-radius: 10px;
+    font-size: 20px;
+    line-height: 1.1;
+}
+ul {
+    margin-left: -30px;    
+    padding-left: 50px;  
+}
+.description {
+    color: rgba(0,0,0,0.4);
+    text-decoration: none;
+}
+img {
+    width: 1020px;
+}
